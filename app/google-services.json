@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8439488415",
+    "project_id": "callup-d448b",
+    "storage_bucket": "callup-d448b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8439488415:android:59f413c64ec6dc520a27aa",
+        "android_client_info": {
+          "package_name": "com.me.strangrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8439488415-uodl7513cb73il8m0agio1dmf0m18k8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWpdVrY47ukqIsd9UJxSa7gRi1jEHp0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8439488415-uodl7513cb73il8m0agio1dmf0m18k8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
